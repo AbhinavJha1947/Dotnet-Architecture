@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\bin\Debug\net9.0\Adapters.External.deps.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\bin\Debug\net9.0\Adapters.External.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\bin\Debug\net9.0\Adapters.External.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\bin\Debug\net9.0\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\bin\Debug\net9.0\Application.Ports.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.AssemblyInfo.cs
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.sourcelink.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.AFE52F97.Up2Date
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\refint\Adapters.External.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\Adapters.External.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.External\obj\Debug\net9.0\ref\Adapters.External.dll

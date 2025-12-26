@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\bin\Debug\net9.0\Adapters.Grpc.deps.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\bin\Debug\net9.0\Adapters.Grpc.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\bin\Debug\net9.0\Adapters.Grpc.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\bin\Debug\net9.0\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\bin\Debug\net9.0\Application.Ports.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.AssemblyInfo.cs
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.sourcelink.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.3B504DAA.Up2Date
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\refint\Adapters.Grpc.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\Adapters.Grpc.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Grpc\obj\Debug\net9.0\ref\Adapters.Grpc.dll

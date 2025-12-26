@@ -1,0 +1,11 @@
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\bin\Debug\net9.0\Domain.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\Domain.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Domain\obj\Debug\net9.0\ref\Domain.dll

@@ -1,0 +1,11 @@
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\bin\Debug\net9.0\MyApp.DataAccess.deps.json
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\bin\Debug\net9.0\MyApp.DataAccess.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\bin\Debug\net9.0\MyApp.DataAccess.pdb
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\MyApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\MyApp.DataAccess.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\MyApp.DataAccess.AssemblyInfo.cs
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\MyApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\MyApp.DataAccess.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\refint\MyApp.DataAccess.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\MyApp.DataAccess.pdb
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.DataAccess\obj\Debug\net9.0\ref\MyApp.DataAccess.dll

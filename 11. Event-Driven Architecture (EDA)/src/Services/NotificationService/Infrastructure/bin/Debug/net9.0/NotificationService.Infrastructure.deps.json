@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NotificationService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "NotificationService.Application": "1.0.0"
+        },
+        "runtime": {
+          "NotificationService.Infrastructure.dll": {}
+        }
+      },
+      "BuildingBlocks.EventBus.Abstractions/1.0.0": {
+        "runtime": {
+          "BuildingBlocks.EventBus.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NotificationService.Application/1.0.0": {
+        "dependencies": {
+          "BuildingBlocks.EventBus.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "NotificationService.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingBlocks.EventBus.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotificationService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

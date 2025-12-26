@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\tests\\WebBFF.Tests\\WebBFF.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\Common\\BuildingBlocks.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\Common\\BuildingBlocks.Common.csproj",
+        "projectName": "BuildingBlocks.Common",
+        "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\Common\\BuildingBlocks.Common.csproj",
+        "packagesPath": "C:\\Users\\Abhinav Jha\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abhinav Jha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\HttpClientExtensions\\BuildingBlocks.HttpClientExtensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\HttpClientExtensions\\BuildingBlocks.HttpClientExtensions.csproj",
+        "projectName": "BuildingBlocks.HttpClientExtensions",
+        "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\HttpClientExtensions\\BuildingBlocks.HttpClientExtensions.csproj",
+        "packagesPath": "C:\\Users\\Abhinav Jha\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\HttpClientExtensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abhinav Jha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\WebBFF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\WebBFF.csproj",
+        "projectName": "WebBFF",
+        "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\WebBFF.csproj",
+        "packagesPath": "C:\\Users\\Abhinav Jha\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abhinav Jha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\Common\\BuildingBlocks.Common.csproj": {
+                "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\Common\\BuildingBlocks.Common.csproj"
+              },
+              "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\HttpClientExtensions\\BuildingBlocks.HttpClientExtensions.csproj": {
+                "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\BuildingBlocks\\HttpClientExtensions\\BuildingBlocks.HttpClientExtensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\tests\\WebBFF.Tests\\WebBFF.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\tests\\WebBFF.Tests\\WebBFF.Tests.csproj",
+        "projectName": "WebBFF.Tests",
+        "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\tests\\WebBFF.Tests\\WebBFF.Tests.csproj",
+        "packagesPath": "C:\\Users\\Abhinav Jha\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\tests\\WebBFF.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abhinav Jha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\WebBFF.csproj": {
+                "projectPath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\WebBFF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

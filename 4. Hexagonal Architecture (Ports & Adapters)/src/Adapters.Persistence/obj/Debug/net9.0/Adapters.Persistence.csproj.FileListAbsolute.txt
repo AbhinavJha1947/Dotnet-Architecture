@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\bin\Debug\net9.0\Adapters.Persistence.deps.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\bin\Debug\net9.0\Adapters.Persistence.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\bin\Debug\net9.0\Adapters.Persistence.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\bin\Debug\net9.0\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\bin\Debug\net9.0\Application.Ports.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.AssemblyInfo.cs
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.sourcelink.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.F9B5137C.Up2Date
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\refint\Adapters.Persistence.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\Adapters.Persistence.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Adapters.Persistence\obj\Debug\net9.0\ref\Adapters.Persistence.dll

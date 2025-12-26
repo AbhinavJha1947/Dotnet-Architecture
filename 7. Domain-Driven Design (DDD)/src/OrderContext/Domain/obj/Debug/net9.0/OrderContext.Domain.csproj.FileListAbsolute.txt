@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\bin\Debug\net9.0\OrderContext.Domain.deps.json
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\bin\Debug\net9.0\OrderContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\bin\Debug\net9.0\OrderContext.Domain.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\bin\Debug\net9.0\Shared.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\bin\Debug\net9.0\Shared.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.sourcelink.json
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderCon.1E643D1B.Up2Date
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\refint\OrderContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\OrderContext.Domain.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\OrderContext\Domain\obj\Debug\net9.0\ref\OrderContext.Domain.dll

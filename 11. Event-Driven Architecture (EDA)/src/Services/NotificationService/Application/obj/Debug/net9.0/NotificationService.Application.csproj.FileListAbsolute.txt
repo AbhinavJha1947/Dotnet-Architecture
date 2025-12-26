@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\bin\Debug\net9.0\NotificationService.Application.deps.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\bin\Debug\net9.0\NotificationService.Application.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\bin\Debug\net9.0\NotificationService.Application.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.AssemblyInfo.cs
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.sourcelink.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\Notifica.DAFDC56B.Up2Date
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\refint\NotificationService.Application.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\NotificationService.Application.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\NotificationService\Application\obj\Debug\net9.0\ref\NotificationService.Application.dll

@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\bin\Debug\net9.0\CatalogContext.Domain.deps.json
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\bin\Debug\net9.0\CatalogContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\bin\Debug\net9.0\CatalogContext.Domain.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\bin\Debug\net9.0\Shared.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\bin\Debug\net9.0\Shared.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.sourcelink.json
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogC.25CC13BB.Up2Date
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\refint\CatalogContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\CatalogContext.Domain.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CatalogContext\Domain\obj\Debug\net9.0\ref\CatalogContext.Domain.dll

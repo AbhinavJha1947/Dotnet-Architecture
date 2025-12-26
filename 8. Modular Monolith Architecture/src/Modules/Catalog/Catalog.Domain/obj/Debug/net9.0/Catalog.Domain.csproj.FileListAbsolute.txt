@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\bin\Debug\net9.0\Catalog.Domain.deps.json
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\bin\Debug\net9.0\Catalog.Domain.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\bin\Debug\net9.0\Catalog.Domain.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\bin\Debug\net9.0\Shared.Abstractions.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\bin\Debug\net9.0\Shared.Abstractions.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.sourcelink.json
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog..A0AFAC00.Up2Date
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\refint\Catalog.Domain.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\Catalog.Domain.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Catalog\Catalog.Domain\obj\Debug\net9.0\ref\Catalog.Domain.dll

@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\bin\Debug\net9.0\Customers.Domain.deps.json
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\bin\Debug\net9.0\Customers.Domain.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\bin\Debug\net9.0\Customers.Domain.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\bin\Debug\net9.0\Shared.Abstractions.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\bin\Debug\net9.0\Shared.Abstractions.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.sourcelink.json
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customer.8BCED5AF.Up2Date
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\refint\Customers.Domain.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\Customers.Domain.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Modules\Customers\Customers.Domain\obj\Debug\net9.0\ref\Customers.Domain.dll

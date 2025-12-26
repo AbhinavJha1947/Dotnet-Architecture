@@ -1,0 +1,12 @@
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\bin\Debug\net9.0\Shared.Abstractions.deps.json
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\bin\Debug\net9.0\Shared.Abstractions.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\bin\Debug\net9.0\Shared.Abstractions.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.AssemblyInfo.cs
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.sourcelink.json
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\refint\Shared.Abstractions.dll
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\Shared.Abstractions.pdb
+D:\Dotnet Architecture\8. Modular Monolith Architecture\src\Shared\Shared.Abstractions\obj\Debug\net9.0\ref\Shared.Abstractions.dll

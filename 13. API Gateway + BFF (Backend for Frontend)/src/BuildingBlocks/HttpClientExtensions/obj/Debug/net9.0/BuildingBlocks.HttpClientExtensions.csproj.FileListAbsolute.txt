@@ -1,0 +1,12 @@
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\bin\Debug\net9.0\BuildingBlocks.HttpClientExtensions.deps.json
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\bin\Debug\net9.0\BuildingBlocks.HttpClientExtensions.dll
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\bin\Debug\net9.0\BuildingBlocks.HttpClientExtensions.pdb
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.AssemblyInfo.cs
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.sourcelink.json
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.dll
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\refint\BuildingBlocks.HttpClientExtensions.dll
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\BuildingBlocks.HttpClientExtensions.pdb
+D:\Dotnet Architecture\13. API Gateway + BFF (Backend for Frontend)\src\BuildingBlocks\HttpClientExtensions\obj\Debug\net9.0\ref\BuildingBlocks.HttpClientExtensions.dll

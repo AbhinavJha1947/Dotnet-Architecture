@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyApp.Web/1.0.0": {
+        "dependencies": {
+          "MyApp.Business": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.Web.dll": {}
+        }
+      },
+      "MyApp.Business/1.0.0": {
+        "dependencies": {
+          "MyApp.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.Business.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyApp.DataAccess/1.0.0": {
+        "runtime": {
+          "MyApp.DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

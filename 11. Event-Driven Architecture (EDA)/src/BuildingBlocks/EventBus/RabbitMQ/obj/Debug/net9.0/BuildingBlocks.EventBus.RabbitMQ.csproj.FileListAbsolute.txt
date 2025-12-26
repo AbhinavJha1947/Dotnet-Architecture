@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\bin\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.deps.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\bin\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\bin\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.sourcelink.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\Building.E5357F9F.Up2Date
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\refint\BuildingBlocks.EventBus.RabbitMQ.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\BuildingBlocks.EventBus.RabbitMQ.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\RabbitMQ\obj\Debug\net9.0\ref\BuildingBlocks.EventBus.RabbitMQ.dll

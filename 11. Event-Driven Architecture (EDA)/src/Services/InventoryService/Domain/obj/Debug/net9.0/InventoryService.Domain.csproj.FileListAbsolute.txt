@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\bin\Debug\net9.0\InventoryService.Domain.deps.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\bin\Debug\net9.0\InventoryService.Domain.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\bin\Debug\net9.0\InventoryService.Domain.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\bin\Debug\net9.0\BuildingBlocks.Common.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\bin\Debug\net9.0\BuildingBlocks.Common.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.sourcelink.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\Inventor.6FB98E4F.Up2Date
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\refint\InventoryService.Domain.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\InventoryService.Domain.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\InventoryService\Domain\obj\Debug\net9.0\ref\InventoryService.Domain.dll

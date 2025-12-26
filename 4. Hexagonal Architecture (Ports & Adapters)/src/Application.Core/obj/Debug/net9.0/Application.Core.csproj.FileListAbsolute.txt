@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\bin\Debug\net9.0\Application.Core.deps.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\bin\Debug\net9.0\Application.Core.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\bin\Debug\net9.0\Application.Core.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\bin\Debug\net9.0\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\bin\Debug\net9.0\Application.Ports.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.AssemblyInfo.cs
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.sourcelink.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Applicat.AE33B510.Up2Date
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\refint\Application.Core.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\Application.Core.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Core\obj\Debug\net9.0\ref\Application.Core.dll

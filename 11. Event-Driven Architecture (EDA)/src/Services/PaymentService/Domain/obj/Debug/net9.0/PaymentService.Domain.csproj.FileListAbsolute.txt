@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\bin\Debug\net9.0\PaymentService.Domain.deps.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\bin\Debug\net9.0\PaymentService.Domain.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\bin\Debug\net9.0\PaymentService.Domain.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\bin\Debug\net9.0\BuildingBlocks.Common.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\bin\Debug\net9.0\BuildingBlocks.Common.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.sourcelink.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentS.6786DBE7.Up2Date
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\refint\PaymentService.Domain.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\PaymentService.Domain.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\Services\PaymentService\Domain\obj\Debug\net9.0\ref\PaymentService.Domain.dll

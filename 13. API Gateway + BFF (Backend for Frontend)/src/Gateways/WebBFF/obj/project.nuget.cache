@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEPT+ShjMNU=",
+  "success": true,
+  "projectFilePath": "D:\\Dotnet Architecture\\13. API Gateway + BFF (Backend for Frontend)\\src\\Gateways\\WebBFF\\WebBFF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhinav Jha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Abhinav Jha\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

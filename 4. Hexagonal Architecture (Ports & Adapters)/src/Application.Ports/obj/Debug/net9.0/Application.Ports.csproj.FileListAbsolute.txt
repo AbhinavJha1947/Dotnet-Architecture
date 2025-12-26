@@ -1,0 +1,12 @@
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\bin\Debug\net9.0\Application.Ports.deps.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\bin\Debug\net9.0\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\bin\Debug\net9.0\Application.Ports.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.AssemblyInfo.cs
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.sourcelink.json
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\refint\Application.Ports.dll
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\Application.Ports.pdb
+D:\Dotnet Architecture\4. Hexagonal Architecture (Ports & Adapters)\src\Application.Ports\obj\Debug\net9.0\ref\Application.Ports.dll

@@ -1,0 +1,15 @@
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\bin\Debug\net9.0\MyApp.Business.deps.json
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\bin\Debug\net9.0\MyApp.Business.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\bin\Debug\net9.0\MyApp.Business.pdb
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\bin\Debug\net9.0\MyApp.DataAccess.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\bin\Debug\net9.0\MyApp.DataAccess.pdb
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.AssemblyInfo.cs
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Bu.20E4FE88.Up2Date
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\refint\MyApp.Business.dll
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\MyApp.Business.pdb
+D:\Dotnet Architecture\1. Layered Architecture (N-Tier)\MyApp.Business\obj\Debug\net9.0\ref\MyApp.Business.dll

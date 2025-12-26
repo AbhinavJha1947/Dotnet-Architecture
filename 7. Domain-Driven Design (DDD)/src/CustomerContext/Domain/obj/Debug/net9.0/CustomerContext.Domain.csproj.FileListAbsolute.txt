@@ -1,0 +1,16 @@
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\bin\Debug\net9.0\CustomerContext.Domain.deps.json
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\bin\Debug\net9.0\CustomerContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\bin\Debug\net9.0\CustomerContext.Domain.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\bin\Debug\net9.0\Shared.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\bin\Debug\net9.0\Shared.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.AssemblyInfo.cs
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.sourcelink.json
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\Customer.40C4591D.Up2Date
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\refint\CustomerContext.Domain.dll
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\CustomerContext.Domain.pdb
+D:\Dotnet Architecture\7. Domain-Driven Design (DDD)\src\CustomerContext\Domain\obj\Debug\net9.0\ref\CustomerContext.Domain.dll

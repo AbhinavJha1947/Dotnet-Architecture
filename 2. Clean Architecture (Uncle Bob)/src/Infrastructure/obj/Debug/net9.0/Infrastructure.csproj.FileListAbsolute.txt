@@ -1,0 +1,17 @@
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Application.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Dotnet Architecture\2. Clean Architecture (Uncle Bob)\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

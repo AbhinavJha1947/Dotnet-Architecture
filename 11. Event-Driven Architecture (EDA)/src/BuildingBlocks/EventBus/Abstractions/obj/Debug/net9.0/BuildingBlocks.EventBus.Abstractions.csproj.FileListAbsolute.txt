@@ -1,0 +1,12 @@
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.deps.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\bin\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.AssemblyInfoInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.AssemblyInfo.cs
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.csproj.CoreCompileInputs.cache
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.sourcelink.json
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\refint\BuildingBlocks.EventBus.Abstractions.dll
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\BuildingBlocks.EventBus.Abstractions.pdb
+D:\Dotnet Architecture\11. Event-Driven Architecture (EDA)\src\BuildingBlocks\EventBus\Abstractions\obj\Debug\net9.0\ref\BuildingBlocks.EventBus.Abstractions.dll
